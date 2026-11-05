@@ -1,0 +1,15 @@
+{
+  "repository": "module-real-estate-media-and-documents-react-native",
+  "capabilityKey": "liberusoftware/real-estate-media-and-documents",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-real-estate-media-and-documents-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/real-estate/nextjs/media-and-documents.md",
+  "presentationPlan": "projects/real-estate/react-native/media-and-documents.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "real-estate"
+  ]
+}
